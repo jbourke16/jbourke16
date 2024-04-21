@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, world! I'm Jennifer 👋🏼
 
-<!--
-**jbourke16/jbourke16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a background in Digital Marketing and SEO & SEM. Welcome to my GitHub!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const aboutMe = {
+      nickname: "Jenn",
+      location: "Brooklyn, NY",
+      coding languages: ["JavaScript", "Python", "SQL", "Ruby", "HTML", "CSS"],
+      tools: ["React", "Node", "Django", "VS Code", "MongoDB"],
+      skills: ["Problem-solving", "Team Management", "Adaptability", "Microsoft Office", "Google Suite"],
+      interests: ["Writing", "Gaming", "Coding", "Long walks on the beach alone"]
+
+}
+```
